@@ -1,13 +1,38 @@
 header {
-	background-color: #FFFFFF);
+	background-color: #FFFFFF;
 	text-align: center;
 	padding: 20px 10px;
 }
 
 .logo {
 	position: absolute;
-	width: 22px;
-	height: 43px;
+	width: 28px;
+	height: 49px;
 	left: 34px;
 	top: 17px;
+}
+
+.geo {
+	position: absolute;
+	width: 120px;
+	height: 19px;
+	left: 64px;
+	top: 20px;
+}
+
+.sesi {
+	position: absolute;
+	width: 44px;
+	height: 35px;
+	left: 82px;
+	top: 34px;
+}
+
+.barra {
+	position: absolute;
+	width: 1438px;
+	height: 8px;
+	left: 40px;
+	top: 245px;
+	background-color: black;
 }
