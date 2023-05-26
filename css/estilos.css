@@ -3,3 +3,11 @@ header {
 	text-align: center;
 	padding: 20px 10px;
 }
+
+.logo {
+	position: absolute;
+	width: 22px;
+	height: 43px;
+	left: 34px;
+	top: 17px;
+}
