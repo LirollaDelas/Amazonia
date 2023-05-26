@@ -70,6 +70,34 @@ header {
 }
 .img {
 	top: 3000px;
+	left: 1000;
 }
-.box3 {
-	
+.tt {
+	position: absolute;
+	width: 186px;
+	height: 25px;
+	left: 579px;
+	top: 3100px;
+
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;
+}
+.txt {
+	position: absolute;
+	width: 518px;
+	height: 133px;
+	left: 467px;
+	top: 3200px;
+
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 19px;
+	text-align: center;
+
+}
