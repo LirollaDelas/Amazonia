@@ -11,7 +11,6 @@ header {
 	left: 34px;
 	top: 17px;
 }
- HEAD
 .geo {
 	position: absolute;
 	width: 120px;
@@ -33,7 +32,7 @@ header {
 	width: 1438px;
 	height: 8px;
 	left: 40px;
-	top: 245px;
+	top: 90px;
 	background-color: black;
 }
 
