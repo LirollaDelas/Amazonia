@@ -60,6 +60,9 @@ header {
 	background-color: black;
 }
 
+main {
+	height: 2000;
+}
 .dominio{
 	position: absolute;
 	width: 164px;
@@ -95,7 +98,7 @@ header {
 	position: absolute;
 	width: 138px;
 	height: 25px;
-	left: 1050px;
+	left: 1050ppx;
 	top: 92px;
 
 	font-family: 'Lexend Zetta';
