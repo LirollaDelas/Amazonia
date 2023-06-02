@@ -35,6 +35,22 @@ header {
 	bottom: 93.65%;
 }
 
+.menu{
+	position: absolute;
+	left: 92%;
+	right: 13%;
+	top: 3.50%;
+	bottom: 93.65%;
+}
+
+.brra {
+	position: absolute;
+	left: 89.30%;
+	right: 13%;
+	top: 3.50%;
+	bottom: 93.65%;
+}
+
 .barra {
 	position: absolute;
 	width: 1438px;
@@ -43,6 +59,33 @@ header {
 	top: 90px;
 	background-color: black;
 }
+
+.dominio{
+	position: absolute;
+	width: 164px;
+	height: 25px;
+	left: 335px;
+	top: 107px;
+
+}
+
+.brra1{
+	position: absolute;
+	left: 40%;
+	right: 13%;
+	top: 14%;
+	bottom: 93.65%;
+}
+
+.brra2{
+	position: absolute;
+	left: 63%;
+	right: 13%;
+	top: 14%;
+	bottom: 93.65%;
+
+}
+
 
 .box1{
 	box-sizing: border-box;
