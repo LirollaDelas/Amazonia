@@ -141,3 +141,18 @@ header {
 	text-align: center;
 	color: #000000;
 }
+.img2 {
+	position: absolute;
+	width: 69px;
+	height: 28px;
+	left: 650px;
+	top: 200px;
+}
+.risco {
+	position: absolute;
+	width: 345px;
+	height: 1px;
+	left: 420px;
+	top: 50px;
+
+}
