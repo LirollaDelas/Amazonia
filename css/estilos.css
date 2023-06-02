@@ -110,19 +110,34 @@ header {
 }
 .txt1 {
 	position: absolute;
-width: 308px;
-height: 25px;
-left: 518px;
-top: 224px;
+	width: 308px;
+	height: 25px;
+	left: 420px;
+	top: 0px;
 
-font-family: 'Lexend Zetta';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 25px;
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
 
 
-text-align: center;
+	text-align: center;
 
-color: #079E0D
+	color: #079E0D
+}
+.txt2 {
+	position: absolute;
+	width: 602px;
+	height: 114px;
+	left: 400px;
+	top: 50px;
+
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 19px;
+	text-align: center;
+	color: #000000;
 }
