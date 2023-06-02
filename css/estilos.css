@@ -108,3 +108,21 @@ header {
 	text-align: center;
 
 }
+.txt1 {
+	position: absolute;
+width: 308px;
+height: 25px;
+left: 518px;
+top: 224px;
+
+font-family: 'Lexend Zetta';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+
+text-align: center;
+
+color: #079E0D
+}
