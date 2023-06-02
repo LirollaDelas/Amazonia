@@ -63,10 +63,47 @@ header {
 .dominio{
 	position: absolute;
 	width: 164px;
-	height: 25px;
+	height: 55px;
 	left: 335px;
-	top: 107px;
+	top: 92px;
 
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;	
+
+}
+
+.Blogs{
+	position: absolute;
+	width: 164px;
+	height: 55px;
+	left: 687px;
+	top: 92px;
+
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;	
+}
+
+.contato{
+	position: absolute;
+	width: 138px;
+	height: 25px;
+	left: 1050px;
+	top: 92px;
+
+	font-family: 'Lexend Zetta';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center;
 }
 
 .brra1{
