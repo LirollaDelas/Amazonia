@@ -27,6 +27,14 @@ header {
 	top: 34px;
 }
 
+.lupa{
+	position: absolute;
+	left: 84.72%;
+	right: 12.78%;
+	top: 2.83%;
+	bottom: 93.65%;
+}
+
 .barra {
 	position: absolute;
 	width: 1438px;
