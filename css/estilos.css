@@ -53,9 +53,9 @@ header {
 
 .barra {
 	position: absolute;
-	width: 1280px;
+	width: 1420px;
 	height: 8px;
-	left: 40px;
+	left: 60px;
 	top: 90px;
 	background-color: black;
 }
@@ -67,8 +67,8 @@ main {
 	position: absolute;
 	width: 164px;
 	height: 55px;
-	left: 330px;
-	top: 80px;
+	left: 380px;
+	top: 90px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -83,8 +83,8 @@ main {
 	position: absolute;
 	width: 164px;
 	height: 55px;
-	left: 620px;
-	top: 80px;
+	left: 680px;
+	top: 90px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -98,8 +98,8 @@ main {
 	position: absolute;
 	width: 0px;
 	height: 0px;
-	left: 950px;
-	top: 80px;
+	left: 1010px;
+	top: 90px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -291,7 +291,7 @@ main {
 	position: absolute;
 	width: 244px;
 	height: 350px;
-	left: 1101px;
+	left: 1270px;
 	top: 668px;
 
 	background: #FFFFFF;
@@ -317,7 +317,7 @@ main {
 	width: 308px;
 	height: 25px;
 	left: -720px;
-	top: 0px;
+	top: 13px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -336,15 +336,15 @@ main {
 	width: 345px;
 	height: 1px;
 	left: -740px;
-	top: 50px;
+	top: 60px;
 }
 
 .txt6 {
 	position: absolute;
 	width: 602px;
 	height: 114px;
-	left: -850px;
-	top: 50px;
+	left: -870px;
+	top: 65px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -358,8 +358,8 @@ main {
 	position: absolute;
 	width: 602px;
 	height: 114px;
-	left: -850px;
-	top: 70px;
+	left: -870px;
+	top: 90px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -407,7 +407,7 @@ main {
 	position: absolute;
 	width: 600px;
 	height: 8px;
-	left: 40px;
+	left: 105px;
 	top: 1150px;
 	background-color: black;
 }
@@ -416,7 +416,7 @@ main {
 	position: absolute;
 	width: 69px;
 	height: 28px;
-	left: 650px;
+	left: 725px;
 	top: 1140px;
 }
 
@@ -424,7 +424,7 @@ main {
 	position: absolute;
 	width: 600px;
 	height: 8px;
-	left: 720px;
+	left: 805px;
 	top: 1150px;
 	background-color: black;
 }
@@ -484,8 +484,10 @@ main {
 	position: absolute;
 	width: 244px;
 	height: 350px;
-	left: 1101px;
+	left: 1272px;
 	top: 1750px;
+
+
 
 	background: #FFFFFF;
 	border: 2px solid #000000;
@@ -509,8 +511,8 @@ main {
 	position: absolute;
 	width: 308px;
 	height: 25px;
-	left: -720px;
-	top: 0px;
+	left: -715px;
+	top: 13px;
 
 	font-family: 'Lexend Zetta';
 	font-style: normal;
@@ -527,8 +529,8 @@ main {
 	position: absolute;
 	width: 345px;
 	height: 1px;
-	left: -740px;
-	top: 50px;
+	left: -715px;
+	top: 60px;
 }
 
 .txt11 {
@@ -661,7 +663,7 @@ main {
 	position: absolute;
 	width: 244px;
 	height: 350px;
-	left: 1101px;
+	left: 1272px;
 	top: 2850px;
 
 	background: #FFFFFF;
@@ -736,7 +738,7 @@ main {
 	position: absolute;
 	width: 600px;
 	height: 8px;
-	left: 40px;
+	left: 105px;
 	top: 3300px;
 	background-color: black;
 }
@@ -745,7 +747,7 @@ main {
 	position: absolute;
 	width: 69px;
 	height: 28px;
-	left: 650px;
+	left: 725px;
 	top: 3290px;
 }
 
@@ -753,7 +755,7 @@ main {
 	position: absolute;
 	width: 600px;
 	height: 8px;
-	left: 720px;
+	left: 825px;
 	top: 3300px;
 	background-color: black;
 }
