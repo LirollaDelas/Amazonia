@@ -759,3 +759,15 @@ main {
 	top: 3300px;
 	background-color: black;
 }
+
+.rodape {
+	width: 1590px;
+	height: 145px;
+	background: #079E0D;
+	top: 3320;
+	right: 0px;
+	position: absolute;
+}
+.textorod {
+	
+}
